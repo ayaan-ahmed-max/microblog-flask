@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ruflo / Claude plugin data (not part of the app)
+.swarm/
+.claude-flow/
+ruvector.db
